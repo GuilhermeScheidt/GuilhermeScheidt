@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there What I´m Working on! 👋
 
-<!--
-**GuilhermeScheidt/GuilhermeScheidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Fala pessoal, veja o que tenho feito! 
 
 - 🔭 I’m currently working on as a Business M&A (financial modeling with some big data and statistic concepts) 💸 
 - 🌱 I’m currently learning HTML, CSS,SASS, JAVASCRIPT, JAVA AND SQL 🏃
