@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on frontend projects 💻
 - 🤔 I’m looking for help with anything... 
 - 💬 Ask me about anything...
-- 📫 How to reach me: guilherme.scheidt18@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/guilhermescheidt18/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I've lived in more than 10 different places and in different countries 🌎
 -->
